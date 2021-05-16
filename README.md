@@ -9,3 +9,4 @@
 
 ## Coding 
 - [3 Books to Improve Your Coding Skills](https://betterprogramming.pub/3-books-to-improve-your-coding-skills-afa67621192)
+- [20 Must-Have Skills for Software Developers in 2021](https://betterprogramming.pub/20-must-have-skills-for-software-developers-in-2021-1f7526bbcc24)
