@@ -2,6 +2,7 @@
 
 ## Web Development
 - [10 GitHub Repos That Can Help You Grow as a Web Developer](https://levelup.gitconnected.com/10-github-repos-that-can-help-you-grow-as-a-web-developer-56a640d9771a)
+- [6 Technologies That Will Make You a Wanted Front-end Developer in 2021](https://javascript.plainenglish.io/6-technologies-that-will-make-you-a-wanted-front-end-developer-in-2021-ebe44e9245ee)
 
 ## Side Hustle 
 - [How To Earn $10,000/Month On The Internet?](https://medium.com/love-in-the-air/how-to-earn-10-000-month-on-the-internet-dde71eb82877)
