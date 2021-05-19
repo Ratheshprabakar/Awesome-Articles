@@ -15,3 +15,6 @@
 - [3 Books to Improve Your Coding Skills](https://betterprogramming.pub/3-books-to-improve-your-coding-skills-afa67621192)
 - [20 Must-Have Skills for Software Developers in 2021](https://betterprogramming.pub/20-must-have-skills-for-software-developers-in-2021-1f7526bbcc24)
 - [Why So Many Coding Students Struggle Getting a Job After Coding Bootcamps](https://betterprogramming.pub/why-so-many-coding-students-struggle-getting-a-job-after-coding-bootcamps-570c3db6a20d)
+- 
+## Productivity
+- [Top 14 Browser Extensions for Better Developer Productivity](https://betterprogramming.pub/top-14-browser-extensions-for-better-developer-productivity-19b4efcdd20a)
