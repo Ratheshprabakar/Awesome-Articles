@@ -3,10 +3,12 @@
 ## Web Development
 - [10 GitHub Repos That Can Help You Grow as a Web Developer](https://levelup.gitconnected.com/10-github-repos-that-can-help-you-grow-as-a-web-developer-56a640d9771a)
 - [6 Technologies That Will Make You a Wanted Front-end Developer in 2021](https://javascript.plainenglish.io/6-technologies-that-will-make-you-a-wanted-front-end-developer-in-2021-ebe44e9245ee)
+- [4 Useful Podcasts I Enjoy for Web Development](https://javascript.plainenglish.io/4-useful-podcasts-i-enjoy-for-web-development-1b24cc3aafe0)
 
 ## Side Hustle 
 - [How To Earn $10,000/Month On The Internet?](https://medium.com/love-in-the-air/how-to-earn-10-000-month-on-the-internet-dde71eb82877)
 - [44 Things I Learned Writing 4 Articles a Week For 4 Straight Months — Earning Over $4,444 a Month](https://medium.com/the-ascent/44-things-i-learned-writing-4-articles-a-week-for-4-straight-months-earning-over-4-444-a-month-aa37ebc6264f)
+- [5 Side Gigs You Can Run From Home That Require Little to No Experience](https://medium.com/swlh/5-side-gigs-you-can-run-from-home-that-require-little-to-no-experience-d4d3688a6947)
 
 ## Content Writing 
 - [15 of the Best Content Writing Tools to Improve Your Writing](https://writingcooperative.com/15-of-the-best-content-writing-tools-to-improve-your-writing-3ceb20d2da7d)
