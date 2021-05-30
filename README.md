@@ -19,6 +19,7 @@
 - [Why So Many Coding Students Struggle Getting a Job After Coding Bootcamps](https://betterprogramming.pub/why-so-many-coding-students-struggle-getting-a-job-after-coding-bootcamps-570c3db6a20d)
 - [Deliberate Practice for Programmers](https://levelup.gitconnected.com/deliberate-practice-for-programmers-b6558e957e4)
 - [Clean code & programming principles - The ultimate beginner's guide](https://sargalias.hashnode.dev/programming-principles-introduction?source=newsletter)
+- [Here’s How Programming Teaches Us To Think Differently and Creatively](https://betterprogramming.pub/programming-teaches-you-to-think-differently-and-creatively-7313eb545821)
 
 ## Productivity
 - [Top 14 Browser Extensions for Better Developer Productivity](https://betterprogramming.pub/top-14-browser-extensions-for-better-developer-productivity-19b4efcdd20a)
