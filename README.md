@@ -23,3 +23,4 @@
 
 ## Productivity
 - [Top 14 Browser Extensions for Better Developer Productivity](https://betterprogramming.pub/top-14-browser-extensions-for-better-developer-productivity-19b4efcdd20a)
+- [Automatic Dark/Light Theme Switching Based On The Environment Lighting](https://geeky-chakri.hashnode.dev/automatic-darklight-theme-switching-based-on-the-environment-lighting?source=newsletter)
