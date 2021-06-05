@@ -20,6 +20,7 @@
 - [Deliberate Practice for Programmers](https://levelup.gitconnected.com/deliberate-practice-for-programmers-b6558e957e4)
 - [Clean code & programming principles - The ultimate beginner's guide](https://sargalias.hashnode.dev/programming-principles-introduction?source=newsletter)
 - [Here’s How Programming Teaches Us To Think Differently and Creatively](https://betterprogramming.pub/programming-teaches-you-to-think-differently-and-creatively-7313eb545821)
+- [Java Project Ideas – Strengthen your Resume with Real-time Projects](https://techvidvan.com/tutorials/java-project-ideas/#:~:text=Java%20project%20ideas%20for%20beginners%201%20Student%20Management,the%20courses%20by%20registering%20themselves%20into%20particular%20courses.)
 
 ## Productivity
 - [Top 14 Browser Extensions for Better Developer Productivity](https://betterprogramming.pub/top-14-browser-extensions-for-better-developer-productivity-19b4efcdd20a)
