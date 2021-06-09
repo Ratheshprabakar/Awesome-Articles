@@ -12,6 +12,7 @@
 
 ## Content Writing 
 - [15 of the Best Content Writing Tools to Improve Your Writing](https://writingcooperative.com/15-of-the-best-content-writing-tools-to-improve-your-writing-3ceb20d2da7d)
+- [How to Write and Publish Articles That Get Noticed](https://medium.com/swlh/how-to-write-and-publish-articles-that-get-noticed-60e9701daed4)
 
 ## Coding 
 - [3 Books to Improve Your Coding Skills](https://betterprogramming.pub/3-books-to-improve-your-coding-skills-afa67621192)
@@ -25,3 +26,6 @@
 ## Productivity
 - [Top 14 Browser Extensions for Better Developer Productivity](https://betterprogramming.pub/top-14-browser-extensions-for-better-developer-productivity-19b4efcdd20a)
 - [Automatic Dark/Light Theme Switching Based On The Environment Lighting](https://geeky-chakri.hashnode.dev/automatic-darklight-theme-switching-based-on-the-environment-lighting?source=newsletter)
+
+## Branding
+- [What to Post on Each Social Media Platform: The Complete Guide to Optimizing Your Social Content](https://buffer.com/resources/what-to-post-on-each-social-media-platform/)
