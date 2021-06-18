@@ -28,6 +28,8 @@
 ## Productivity
 - [Top 14 Browser Extensions for Better Developer Productivity](https://betterprogramming.pub/top-14-browser-extensions-for-better-developer-productivity-19b4efcdd20a)
 - [Automatic Dark/Light Theme Switching Based On The Environment Lighting](https://geeky-chakri.hashnode.dev/automatic-darklight-theme-switching-based-on-the-environment-lighting?source=newsletter)
+- [Five Much-Needed Platforms for Students](https://ratheshprabakar.medium.com/five-much-needed-platforms-for-students-e5541c051776)
 
 ## Branding
 - [What to Post on Each Social Media Platform: The Complete Guide to Optimizing Your Social Content](https://buffer.com/resources/what-to-post-on-each-social-media-platform/)
+- [Personal Branding -A Trump Card for your career](https://ratheshprabakar.medium.com/personal-branding-a-trump-card-for-your-career-b01d5361e23b)
