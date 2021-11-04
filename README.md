@@ -24,6 +24,7 @@
 - [Java Project Ideas – Strengthen your Resume with Real-time Projects](https://techvidvan.com/tutorials/java-project-ideas/#:~:text=Java%20project%20ideas%20for%20beginners%201%20Student%20Management,the%20courses%20by%20registering%20themselves%20into%20particular%20courses.)
 - [9 Early Signs You Will Be a Successful Programmer](https://levelup.gitconnected.com/9-early-signs-you-will-be-a-successful-programmer-1a604f04be39)
 - [How and why I did over 1000 Leetcode problems](https://satviksr.medium.com/how-and-why-i-did-over-1000-leetcode-problems-b236a3f887c9)
+- [REST API Best Practices – REST Endpoint Design Examples](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
 
 ## Productivity
 - [Top 14 Browser Extensions for Better Developer Productivity](https://betterprogramming.pub/top-14-browser-extensions-for-better-developer-productivity-19b4efcdd20a)
