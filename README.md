@@ -5,6 +5,8 @@
 - [6 Technologies That Will Make You a Wanted Front-end Developer in 2021](https://javascript.plainenglish.io/6-technologies-that-will-make-you-a-wanted-front-end-developer-in-2021-ebe44e9245ee)
 - [4 Useful Podcasts I Enjoy for Web Development](https://javascript.plainenglish.io/4-useful-podcasts-i-enjoy-for-web-development-1b24cc3aafe0)
 - [Stop Using Fetch API Directly — SWR Is Way Better](https://javascript.plainenglish.io/stop-using-fetch-api-directly-swr-is-way-better-588976ef6782)
+- [Making Your Backend World with Node.js](https://medium.com/@karthikavel2000/making-your-backend-world-with-node-js-8e93babadb9e)
+
 
 ## Side Hustle 
 - [How To Earn $10,000/Month On The Internet?](https://medium.com/love-in-the-air/how-to-earn-10-000-month-on-the-internet-dde71eb82877)
