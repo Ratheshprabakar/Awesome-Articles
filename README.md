@@ -12,6 +12,7 @@
 - [How To Earn $10,000/Month On The Internet?](https://medium.com/love-in-the-air/how-to-earn-10-000-month-on-the-internet-dde71eb82877)
 - [44 Things I Learned Writing 4 Articles a Week For 4 Straight Months — Earning Over $4,444 a Month](https://medium.com/the-ascent/44-things-i-learned-writing-4-articles-a-week-for-4-straight-months-earning-over-4-444-a-month-aa37ebc6264f)
 - [5 Side Gigs You Can Run From Home That Require Little to No Experience](https://medium.com/swlh/5-side-gigs-you-can-run-from-home-that-require-little-to-no-experience-d4d3688a6947)
+- [4 Websites That Pay Writers $200 to $400 per Article](https://bettermarketing.pub/5-websites-that-pay-writers-200-to-400-per-article-4cfda57e7023)
 
 ## Content Writing 
 - [15 of the Best Content Writing Tools to Improve Your Writing](https://writingcooperative.com/15-of-the-best-content-writing-tools-to-improve-your-writing-3ceb20d2da7d)
